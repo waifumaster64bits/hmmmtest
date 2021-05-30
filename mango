@@ -13,5 +13,14 @@
       },
       "last_updated": "1619840655"
     }
+    
+    "8": {
+      "title": "Cup 8",
+      "volume": "2",
+      "groups": {
+        "TNT": "/proxy/api/imgur/chapter/2GVCOlo/"
+      },
+      "last_updated": "1622339795"
+    }
   }
 }
