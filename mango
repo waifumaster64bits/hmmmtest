@@ -1,26 +1,24 @@
 {
-  "title": "Coffee Wo Shizuka Ni",
-  "description": "Hatano Takaki is a third-year in high school who can’t wait to become a “real adult”. One day, he passes by a café and finds himself mysteriously drawn to the proprietress, a mysterious woman who seems to be hiding a secret sadness. Through her, through coffee, and through his encounters with the other café patrons, he begins to taste the bittersweet feelings of love and growing up. ",
-  "artist": "MIYABI Akino",
-  "author": "MIYABI Akino",
-  "cover": "https://i.imgur.com/GuPriaj.jpg",
-  "chapters": {
-    "7": {
-      "title": "Cup 7",
-      "volume": "2",
-      "groups": {
-        "TNT": "/proxy/api/imgur/chapter/3chkpFn/"
-      },
-      "last_updated": "1619840655"
-    }
-    
-    "8": {
-      "title": "Cup 8",
-      "volume": "2",
-      "groups": {
-        "TNT": "/proxy/api/imgur/chapter/2GVCOlo/"
-      },
-      "last_updated": "1622339795"
-    }
-  }
+   "title":"Coffee Wo Shizuka Ni",
+   "description":"Hatano Takaki is a third-year in high school who can’t wait to become a “real adult”. One day, he passes by a café and finds himself mysteriously drawn to the proprietress, a mysterious woman who seems to be hiding a secret sadness. Through her, through coffee, and through his encounters with the other café patrons, he begins to taste the bittersweet feelings of love and growing up. ",
+   "artist":"MIYABI Akino",
+   "author":"MIYABI Akino",
+   "cover":"https://i.imgur.com/GuPriaj.jpg",
+   "chapters":{
+      "7":{
+         "title":"Cup 7",
+         "volume":"2",
+         "groups":{
+            "TNT":"/proxy/api/imgur/chapter/3chkpFn/"
+         },
+         "last_updated":"1619840655"
+      }"8":{
+         "title":"Cup 8",
+         "volume":"2",
+         "groups":{
+            "TNT":"/proxy/api/imgur/chapter/2GVCOlo/"
+         },
+         "last_updated":"1622339795"
+      }
+   }
 }
